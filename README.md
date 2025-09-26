@@ -15,7 +15,6 @@ Este projeto é um **site institucional de Inteligência Artificial**, desenvolv
 - **servicos.html**: Página que detalha os serviços oferecidos.
 - **contactos.html**: Página com informações de contato, incluindo telefone e e-mail.
 - **assets/css/estilos.css**: Arquivo de estilos principal.
-- **assets/images/**: Contém imagens utilizadas no site (logo e ícones).
 
 ---
 
